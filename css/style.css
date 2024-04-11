@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+h3 {
+ font-family: "Rowdies", sans-serif;
+  color: #944E63;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 40px;
+}
+
+
+h1,h2 {
+  font-family: "Rowdies", sans-serif;
+  color: #944E63;
+  font-weight: 700;
+  font-style: normal;
+}
+a {
+ 	text-decoration: none;
+ 	color: #944E63;
+ 	transition: color 0.5 ease;
+ }
+ 
+a:hover {
+	color: #CAA6A6;
+}
+
+
+
+
+
+
+
+
